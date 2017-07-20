@@ -1,0 +1,15 @@
+"S:\arm\bin\armproc.dll" 
+
+"S:\arm\bin\armjlink2.dll" 
+
+"S:\Chrome DL\an-r12an0021eu0113-synergy-guix-sk-s7g2\an-r12an0021eu0113-synergy-guix-sk-s7g2\GUIX_Hello_World_SK-S7G2\GUIApp\Debug\Exe\proj_guxi_hello_world.out" 
+
+--plugin "S:\arm\bin\armbat.dll" 
+
+--device_macro "S:\arm\config\debugger\Renesas\R7FS7G2x.dmac" 
+
+--flash_loader "S:\arm\config\flashloader\Renesas\FlashR7FS7G27H.board" 
+
+
+
+

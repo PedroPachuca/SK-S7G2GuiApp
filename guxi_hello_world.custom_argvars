@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<iarUserArgVars>
+  <group active="true" name="Renesas Synergy">
+    <variable>
+      <name>AMS_KEEP_FILE</name>
+      <value>false</value>
+    </variable>
+    <variable>
+      <name>RENESAS_SYNERGY_INSTALLDIR</name>
+      <value>S:\Renesase2</value>
+    </variable>
+    <variable>
+      <name>RENESAS_SYNERGY_LICENSEFILE</name>
+      <value>S:\Renesase2\internal\projectgen\arm\Licenses\SSP_License_Example_EvalLicense_20160629.xml</value>
+    </variable>
+  </group>
+</iarUserArgVars>
+
+
