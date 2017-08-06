@@ -3,7 +3,7 @@
 
 IoT GUI App using Renesas RTOS ThreadX.
 
-This app toggles Windows and Text on the SKS7G2 using a multi-threaded approach coupled with interactive Touch UI optimized for SKS7G2's Display.
+This app controls Windows and Text on the SKS7G2 using a multi-threaded approach coupled with interactive Touch UI optimized for SKS7G2's Display.
 
 Written in Synergy C
 
